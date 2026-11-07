@@ -9,9 +9,11 @@ html {
 
 .heading {
     text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: red;
-    margin: 10px;
-    padding: 10px;
+    width: 600px;
 }
 
 .quirky-comment {
@@ -22,4 +24,10 @@ html {
 .center-image {
     display: block;
     margin: 0 auto;
+}
+
+.three-img {
+    display: flex;
+    list-style: none;
+    gap: 10px;
 }
