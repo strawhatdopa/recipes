@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box
+}
+
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.heading {
+    text-align: center;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.quirky-comment {
+    font-style: italic  
+
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
